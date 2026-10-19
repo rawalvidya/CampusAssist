@@ -1,0 +1,384 @@
+
+{
+  "faqs": [
+    {
+      "id": "ATT001",
+      "category": "Attendance",
+      "question": "How do I check my attendance?",
+      "variations": [
+        "Where can I see my attendance percentage?",
+        "How can I check attendance online?",
+        "How much attendance do I have?",
+        "Where do I find my attendance record?",
+        "How to check my daily attendance?"
+      ],
+      "keywords": [
+        "attendance percentage",
+        "attendance record",
+        "student portal",
+        "absent",
+        "present"
+      ],
+      "answer": "Check your college's official student portal or contact your class coordinator to view your attendance record. For the latest attendance percentage, use the official college system."
+    },
+    {
+      "id": "ATT002",
+      "category": "Attendance",
+      "question": "What should I do if my attendance is incorrect?",
+      "variations": [
+        "My attendance is marked absent incorrectly",
+        "How do I correct my attendance?",
+        "My attendance is not updated",
+        "I attended class but was marked absent",
+        "How can I report an attendance mistake?"
+      ],
+      "keywords": [
+        "attendance correction",
+        "wrong attendance",
+        "attendance discrepancy",
+        "absent by mistake"
+      ],
+      "answer": "Contact your subject faculty or class coordinator as soon as possible. Share the relevant class date and any supporting information, and follow your college's official attendance-correction procedure."
+    },
+    {
+      "id": "FEE001",
+      "category": "Fees",
+      "question": "How do I pay my college fees?",
+      "variations": [
+        "How do I pay my fees?",
+        "Where can I pay tuition fees?",
+        "How can I pay my college fee online?",
+        "What is the fee payment process?",
+        "How do I submit my semester fees?"
+      ],
+      "keywords": [
+        "fee payment",
+        "tuition fee",
+        "semester fee",
+        "online payment",
+        "accounts office"
+      ],
+      "answer": "Use the payment method specified by your college's official fee portal or accounts office. Check the amount and deadline before paying, and keep your payment receipt for reference."
+    },
+    {
+      "id": "FEE002",
+      "category": "Fees",
+      "question": "What should I do if my fee payment fails?",
+      "variations": [
+        "My college fee payment failed",
+        "Money was deducted but the payment failed",
+        "My fee receipt was not generated",
+        "How can I check my fee payment status?",
+        "What if my online fee payment is pending?"
+      ],
+      "keywords": [
+        "failed transaction",
+        "payment pending",
+        "fee receipt",
+        "money deducted",
+        "payment status"
+      ],
+      "answer": "Check your official fee portal for the transaction status and save any transaction reference. If the status remains unclear, contact your college accounts office or the official payment provider. Avoid making a duplicate payment until you have checked the transaction status."
+    },
+    {
+      "id": "FEE003",
+      "category": "Fees",
+      "question": "Where can I get information about scholarships and fee concessions?",
+      "variations": [
+        "How can I apply for a scholarship?",
+        "Am I eligible for a fee concession?",
+        "Where can I find scholarship details?",
+        "How do I ask about financial assistance?",
+        "What documents are required for a scholarship?"
+      ],
+      "keywords": [
+        "scholarship",
+        "financial aid",
+        "fee concession",
+        "scholarship application",
+        "student assistance"
+      ],
+      "answer": "Contact your college scholarship section or student welfare office and check official scholarship announcements. Eligibility, deadlines, and required documents vary by scheme, so verify the current requirements before applying."
+    },
+    {
+      "id": "LIB001",
+      "category": "Library",
+      "question": "How can I borrow a library book?",
+      "variations": [
+        "How do I issue a book from the library?",
+        "Can I borrow books using my student ID?",
+        "What is the library book borrowing process?",
+        "How do I get a book issued?",
+        "How can I borrow textbooks from college?"
+      ],
+      "keywords": [
+        "book issue",
+        "borrow books",
+        "student ID",
+        "library membership",
+        "textbooks"
+      ],
+      "answer": "Visit your college library with your student ID and follow the library's book-issue procedure. Ask library staff about borrowing limits, availability, and due dates."
+    },
+    {
+      "id": "LIB002",
+      "category": "Library",
+      "question": "How do I renew a library book?",
+      "variations": [
+        "Can I extend my book return date?",
+        "How do I renew an issued book?",
+        "My library book is due soon",
+        "How can I get more time to return a book?",
+        "Can I renew a borrowed textbook online?"
+      ],
+      "keywords": [
+        "book renewal",
+        "renewal deadline",
+        "return date",
+        "library loan",
+        "extend borrowing"
+      ],
+      "answer": "Check whether your library allows book renewals through its portal or at the library desk. Renewal rules may depend on the due date and whether another student has reserved the book. Confirm the applicable rules with library staff."
+    },
+    {
+      "id": "LIB003",
+      "category": "Library",
+      "question": "What should I do if I lose a library book or my library card?",
+      "variations": [
+        "I lost a library book",
+        "I lost my library card",
+        "How do I report a missing library book?",
+        "How can I replace my library ID card?",
+        "What happens if a library book is damaged?"
+      ],
+      "keywords": [
+        "lost book",
+        "lost library card",
+        "replacement card",
+        "damaged book",
+        "library fine"
+      ],
+      "answer": "Inform the library staff promptly and ask about the official replacement or lost-item procedure. Any applicable charges or replacement requirements depend on your college's library policy."
+    },
+    {
+      "id": "PLA001",
+      "category": "Placements",
+      "question": "How do I get placement information?",
+      "variations": [
+        "Where can I find campus placement announcements?",
+        "How can I register for placements?",
+        "Where do I check company recruitment details?",
+        "How can I contact the placement cell?",
+        "How do I learn about campus interviews?"
+      ],
+      "keywords": [
+        "placement cell",
+        "campus recruitment",
+        "company visits",
+        "job opportunities",
+        "placement registration"
+      ],
+      "answer": "Contact your college placement cell and check its official announcements for company visits, eligibility criteria, registration steps, and recruitment schedules."
+    },
+    {
+      "id": "PLA002",
+      "category": "Placements",
+      "question": "How should I prepare for campus placements?",
+      "variations": [
+        "How can I prepare for placement interviews?",
+        "What skills should I learn for placements?",
+        "How do I prepare for aptitude tests?",
+        "How can I improve my resume?",
+        "What should I study for campus recruitment?"
+      ],
+      "keywords": [
+        "interview preparation",
+        "aptitude",
+        "resume",
+        "technical interview",
+        "communication skills"
+      ],
+      "answer": "Start by reviewing the placement cell's eligibility requirements. Practise aptitude questions, revise core technical subjects, build relevant projects, prepare your resume, and practise explaining your work clearly. Preparation requirements differ by role and company."
+    },
+    {
+      "id": "ACA001",
+      "category": "Academic Support",
+      "question": "Where can I get academic help or tutoring?",
+      "variations": [
+        "I need help with a subject",
+        "How do I get my doubts cleared?",
+        "Does my college provide tutoring?",
+        "Who can help me understand a difficult topic?",
+        "How do I contact my academic advisor?"
+      ],
+      "keywords": [
+        "academic support",
+        "tutoring",
+        "mentoring",
+        "subject faculty",
+        "doubt clearing"
+      ],
+      "answer": "Contact your subject faculty, academic advisor, or department office. Ask about available tutoring, mentoring, doubt-clearing sessions, and other academic support options."
+    },
+    {
+      "id": "ACA002",
+      "category": "Academic Support",
+      "question": "How can I find my syllabus and study materials?",
+      "variations": [
+        "Where can I download my syllabus?",
+        "How do I get lecture notes?",
+        "Where can I find course materials?",
+        "How can I access subject notes?",
+        "Where can I get the semester curriculum?"
+      ],
+      "keywords": [
+        "syllabus",
+        "lecture notes",
+        "course material",
+        "curriculum",
+        "study resources"
+      ],
+      "answer": "Check your college's official learning portal, department website, or announcements. Your subject faculty can confirm the latest syllabus and recommend approved study materials."
+    },
+    {
+      "id": "ACA003",
+      "category": "Academic Support",
+      "question": "What should I do if I am struggling with exams or coursework?",
+      "variations": [
+        "I am stressed about exams",
+        "How can I manage my study schedule?",
+        "I am finding a subject difficult",
+        "How can I improve my exam preparation?",
+        "Where can I ask for academic guidance?"
+      ],
+      "keywords": [
+        "exam preparation",
+        "study plan",
+        "coursework",
+        "academic difficulty",
+        "student wellbeing"
+      ],
+      "answer": "Break your work into manageable topics, create a realistic study schedule, practise questions, and ask your subject faculty for help with difficult concepts. If exam stress feels overwhelming, consider speaking with someone you trust or a campus counsellor."
+    },
+    {
+      "id": "CAM001",
+      "category": "Campus Services",
+      "question": "Where can I find general campus information?",
+      "variations": [
+        "How do I find information about college facilities?",
+        "Where can I get the student handbook?",
+        "Who can answer general college questions?",
+        "Where can I find campus service details?",
+        "How do I contact the college administration?"
+      ],
+      "keywords": [
+        "campus information",
+        "student handbook",
+        "college facilities",
+        "administration",
+        "student services"
+      ],
+      "answer": "Check your college's official website or student handbook, or contact the administration office. These are the best places to confirm current campus services, office locations, and applicable procedures."
+    },
+    {
+      "id": "CAM002",
+      "category": "Campus Services",
+      "question": "How can I find hostel or accommodation information?",
+      "variations": [
+        "How do I apply for a college hostel?",
+        "Where can I ask about hostel rooms?",
+        "How do I find hostel fees?",
+        "Who handles hostel admissions?",
+        "Where can I get accommodation rules?"
+      ],
+      "keywords": [
+        "hostel",
+        "accommodation",
+        "hostel application",
+        "hostel fees",
+        "residential facilities"
+      ],
+      "answer": "Contact your college hostel office or student administration section for availability, application procedures, fees, required documents, and accommodation rules. Confirm current details directly with the college."
+    },
+    {
+      "id": "CAM003",
+      "category": "Campus Services",
+      "question": "Where can I get information about college transport?",
+      "variations": [
+        "Does the college provide bus services?",
+        "How do I find college bus routes?",
+        "Where can I ask about transport fees?",
+        "How do I find bus timings?",
+        "Who manages college transportation?"
+      ],
+      "keywords": [
+        "college bus",
+        "transport service",
+        "bus routes",
+        "transport fees",
+        "bus timings"
+      ],
+      "answer": "Contact your college transport office or check its official transport announcements for routes, timings, availability, fees, and registration procedures."
+    },
+    {
+      "id": "EXAM001",
+      "category": "Examinations",
+      "question": "How do I check my exam timetable?",
+      "variations": [
+        "Where can I find the examination schedule?",
+        "When are my semester exams?",
+        "How do I check exam dates?",
+        "Where is the university timetable published?",
+        "How can I find my exam time table?"
+      ],
+      "keywords": [
+        "exam timetable",
+        "examination schedule",
+        "semester exam dates",
+        "exam calendar",
+        "university timetable"
+      ],
+      "answer": "Check your college's official student portal or examination-cell announcements for the latest exam timetable. I do not have your college's live exam schedule, so confirm all dates and timings through an official source."
+    },
+    {
+      "id": "EXAM002",
+      "category": "Examinations",
+      "question": "How do I get my exam hall ticket or admit card?",
+      "variations": [
+        "Where can I download my hall ticket?",
+        "How do I get my admit card?",
+        "My exam hall ticket is not available",
+        "How can I find my examination admit card?",
+        "Who should I contact about a hall ticket?"
+      ],
+      "keywords": [
+        "hall ticket",
+        "admit card",
+        "exam entry",
+        "examination office",
+        "download hall ticket"
+      ],
+      "answer": "Check your college's official examination portal for hall-ticket release instructions. If your hall ticket is missing or contains incorrect details, contact the examination cell for verified guidance."
+    },
+    {
+      "id": "EXAM003",
+      "category": "Examinations",
+      "question": "Where can I find my exam results?",
+      "variations": [
+        "How do I check semester results?",
+        "Where are university results published?",
+        "How can I download my marksheet?",
+        "When will my examination results be released?",
+        "Where can I see my marks?"
+      ],
+      "keywords": [
+        "exam results",
+        "semester results",
+        "marksheet",
+        "grades",
+        "result portal"
+      ],
+      "answer": "Check your college or university's official results portal and announcements. If your result is missing or appears incorrect, contact the examination office for the applicable verification or correction procedure."
+    }
+  ]
+}
